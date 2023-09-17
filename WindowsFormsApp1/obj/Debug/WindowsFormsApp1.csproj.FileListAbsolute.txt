@@ -18,3 +18,4 @@ C:\4ekmaryov\AutoSerivirs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFor
 C:\4ekmaryov\AutoSerivirs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\4ekmaryov\AutoSerivirs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\4ekmaryov\AutoSerivirs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\4ekmaryov\AutoSerivirs\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
